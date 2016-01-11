@@ -1,0 +1,11 @@
+name: HomeSystem
+version: 0.9
+main: hu.Gerviba.HomeSystem.Core
+author: Gerviba
+permissions:
+    HomeSystem.set:
+        default: true
+    HomeSystem.remove:
+        default: true
+    HomeSystem.goto:
+        default: true
