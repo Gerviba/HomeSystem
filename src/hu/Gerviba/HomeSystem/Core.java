@@ -60,4 +60,10 @@ public class Core extends JavaPlugin {
 		System.out.println("[HomeSystem] HomeSystem is ready!");
 	}
 
+	@Override
+	public void onDisable() {
+		if(MySQL.getInstance().hasConnection())
+			MySQL.getInstance().closeConnection();
+	}
+	
 }

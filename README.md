@@ -1,5 +1,5 @@
 # HomeSystem
- * Version: 0.9 (Tested with Spigot 1.8.x)
+ * Version: 0.9.1 (Tested with Spigot 1.8.x)
  * Last update: 2016-01-11
  * Plugin needed: no
  * Author: [Gerviba]

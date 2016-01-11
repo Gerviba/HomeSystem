@@ -1,5 +1,5 @@
 name: HomeSystem
-version: 0.9
+version: 0.9.1
 main: hu.Gerviba.HomeSystem.Core
 author: Gerviba
 permissions:
