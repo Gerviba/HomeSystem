@@ -14,6 +14,7 @@ import hu.Gerviba.HomeSystem.Utils.Util;
 
 public class Core extends JavaPlugin {
 
+	@Override
 	public void onEnable() {
 		CommandMap cm;
 		
